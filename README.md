@@ -21,6 +21,9 @@ Results of action recognition can be seen in the Notebook.
 
 A sample GIF and its results are shown below:
 
+![](index.gif)
+
+
 ![image](https://user-images.githubusercontent.com/102589425/163396642-765fb22e-535b-4451-8da9-0919632a6059.png)
 
 
