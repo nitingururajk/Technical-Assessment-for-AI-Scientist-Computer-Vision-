@@ -27,4 +27,4 @@ A sample GIF and its results are shown below:
 ![image](https://user-images.githubusercontent.com/102589425/163396642-765fb22e-535b-4451-8da9-0919632a6059.png)
 
 
-The results of this model is really good with high accuracy on the UCF dataset
+The results of this model is good with high accuracy on the UCF dataset
