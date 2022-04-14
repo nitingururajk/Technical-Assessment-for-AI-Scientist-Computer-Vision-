@@ -7,7 +7,7 @@ This repository consists of a Colab notebook taken from Tensorflow tutorials whi
 
 The reason I have chosen this code is because it performs really well on the Kinectics-400 dataset and is based on the paper:
 
-"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset" by Joao Carreira and Andrew Zisserman
+*"Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset" by Joao Carreira and Andrew Zisserman*
 
 ![image](https://user-images.githubusercontent.com/102589425/163395028-57bd938e-e96b-49bf-a387-1dbc2f34ac4a.png)
 
